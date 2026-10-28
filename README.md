@@ -3,9 +3,20 @@
 <h3 align="center">Software Engineering Student | Front-end Developer in Progress</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=brunow27&style=for-the-badge&color=0A66C2" alt="Profile Views"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=brunow27&style=for-the-badge&color=0A66C2"
+    alt="Profile Views"
+  />
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/bruno-rovani-marcelino">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img
+      src="https://cdn.simpleicons.org/linkedin/0A66C2"
+      alt="LinkedIn"
+      width="22"
+      height="22"
+      align="center"
+    />
+    LinkedIn
   </a>
 </p>
 

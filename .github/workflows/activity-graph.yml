@@ -21,7 +21,7 @@ jobs:
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: brunow27
-          options: "theme=github-compact&hide_border=true&area=true&days=31&custom_title=Bruno%27s%20GitHub%20Activity"
+          options: "theme=merko&hide_border=true&area=true&days=31&custom_title=Bruno%27s%20GitHub%20Activity"
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
