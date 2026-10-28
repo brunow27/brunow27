@@ -7,16 +7,26 @@
     src="https://komarev.com/ghpvc/?username=brunow27&style=for-the-badge&color=0A66C2"
     alt="Profile Views"
   />
-  &nbsp;&nbsp;
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/bruno-rovani-marcelino">
     <img
-      src="https://cdn.simpleicons.org/linkedin/0A66C2"
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
-      width="22"
-      height="22"
-      align="center"
     />
-    LinkedIn
+  </a>
+  <a href="mailto:bruninho.marcelino2016@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-bruninho.marcelino2016%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
+  </a>
+  <a href="https://www.instagram.com/brunorovanimarcelino/">
+    <img
+      src="https://img.shields.io/badge/Instagram-brunorovanimarcelino-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
   </a>
 </p>
 
