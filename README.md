@@ -1,12 +1,11 @@
-<!-- Header -->
 <h1 align="center">Hey, I'm Bruno! 👋</h1>
 
 <h3 align="center">Software Engineering Student | Front-end Developer in Progress</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=brunow27&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=brunow27&style=for-the-badge&color=0A66C2" alt="Profile Views"/>
   <a href="https://www.linkedin.com/in/bruno-rovani-marcelino">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -14,14 +13,14 @@
 
 ## 🚀 About Me
 
-I'm a Software Engineering student from Brazil 🇧🇷, currently focused on learning front-end development and improving my programming skills through academic and personal projects.
+I'm a Software Engineering student from Brazil 🇧🇷, currently focusing on front-end development and improving my programming skills through academic and collaborative projects.
 
 - 🌐 Currently studying HTML, CSS and JavaScript.
 - ☕ Basic knowledge of Java and Maven.
 - 🐍 Basic knowledge of Python and Flask.
 - 🗄️ Intermediate knowledge of MySQL.
-- 🔧 Familiar with Git and GitHub, including commits, branches and pull requests.
-- 🐳 Some hands-on experience with Docker in academic projects.
+- 🔧 Familiar with Git and GitHub, including branches, commits and pull requests.
+- 🐳 Hands-on experience with Docker in academic projects.
 - 🎯 Always looking to learn, collaborate and build better software.
 
 ---
@@ -34,7 +33,7 @@ I'm a Software Engineering student from Brazil 🇧🇷, currently focused on le
   <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS and JavaScript"/>
 </p>
 
-### ⚙️ Back-end — Basic Knowledge
+### ⚙️ Programming & Back-end
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,flask&theme=dark" alt="Java, Python and Flask"/>
@@ -55,34 +54,34 @@ I'm a Software Engineering student from Brazil 🇧🇷, currently focused on le
 
 ---
 
-## 📂 Featured Projects
+## 📦 Featured Projects
 
-### 🎮 [CodeQuest](https://github.com/Catolica-Tech-Academy-Hub/codequest)
-
-A collaborative academic project focused on gamifying the learning of programming.
-
-**Technologies:** Flutter, Dart, Firebase and Riverpod.
-
-### 🏗️ [Projeto e Arquitetura — 5ª Fase](https://github.com/Felipe-S-prog/Projeto-e-Arquitetura-5-fase)
-
-A collaborative college project developed for a Software Architecture course, involving a web application and its back-end and database layers.
-
-**Technologies:** React, JavaScript, Node.js, Express, MySQL and Docker.
-
-### 🏥 [Projeto Clínica](https://github.com/brunow27/projeto_clinica) · [Live Demo](https://brunow27.github.io/projeto_clinica/)
-
-An academic Collaborative Learning Project (PAC) based on the needs of a real aesthetics clinic, proposing a modern institutional website and appointment management experience.
-
-**Technologies:** HTML, CSS and JavaScript.
+| **Project** | **Description** | **Technologies** |
+|---|---|---|
+| [🎮 **CodeQuest**](https://github.com/Catolica-Tech-Academy-Hub/codequest) | Academic team project: a gamified platform for learning programming, with a focus on mobile development. | Flutter, Dart, Firebase, Riverpod, Docker |
+| [🏗️ **SGP — Exam Generation System**](https://github.com/Felipe-S-prog/Projeto-e-Arquitetura-5-fase) | Collaborative academic project for managing questions, classes, exams and answer keys. [Live Demo](https://projeto5fase.netlify.app) | React, Node.js, Express, MySQL, Docker |
+| [🏥 **Projeto Clínica**](https://github.com/brunow27/projeto_clinica) | Academic extension project based on a real aesthetics clinic, featuring an institutional website and appointment-management prototype. [Live Demo](https://brunow27.github.io/projeto_clinica/) | HTML, CSS, JavaScript; Flask and MySQL in the proposed architecture |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=brunow27&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=brunow27&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunow27&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Most Used Languages"/>
 </p>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=brunow27&custom_title=Bruno%27s%20GitHub%20Activity&theme=github-compact&hide_border=true&area=true&days=31" alt="GitHub Activity Graph"/>
+  </a>
+</p>
+
+---
+
+## 🧠 Concepts & Skills
+
+`REST APIs` • `HTTP Methods` • `JSON` • `CRUD Operations` • `SQL` • `Relational Databases` • `Git Workflow` • `Branches & Pull Requests` • `Layered Architecture` • `JWT Authentication` • `Docker Compose`
 
 ---
 
@@ -91,7 +90,7 @@ An academic Collaborative Learning Project (PAC) based on the needs of a real ae
 - Building responsive interfaces with HTML and CSS.
 - JavaScript fundamentals and DOM manipulation.
 - Improving code organization and maintainability.
-- Practicing problem-solving through hands-on projects.
+- Applying software architecture concepts in academic projects.
 
 ---
 
