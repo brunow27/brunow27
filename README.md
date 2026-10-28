@@ -9,22 +9,22 @@
   />
 </p>
 
+## 🔗 Socials
 <p align="center">
   <a href="https://www.linkedin.com/in/bruno-rovani-marcelino">
     <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
-  <a href="mailto:bruninho.marcelino2016@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bruninho.marcelino2016%40gmail.com" title="Gmail"">
     <img
-      src="https://img.shields.io/badge/Gmail-bruninho.marcelino2016%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail"
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     />
   </a>
   <a href="https://www.instagram.com/brunorovanimarcelino/">
     <img
-      src="https://img.shields.io/badge/Instagram-brunorovanimarcelino-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
       alt="Instagram"
     />
   </a>
