@@ -72,9 +72,10 @@ I'm a Software Engineering student from Brazil 🇧🇷, currently focusing on f
 </p>
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=brunow27&custom_title=Bruno%27s%20GitHub%20Activity&theme=github-compact&hide_border=true&area=true&days=31" alt="GitHub Activity Graph"/>
-  </a>
+  <img
+    src="https://raw.githubusercontent.com/brunow27/brunow27/output/activity-graph.svg"
+    alt="Bruno's GitHub Activity Graph"
+  />
 </p>
 
 ---
