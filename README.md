@@ -1,15 +1,16 @@
-<h1 align="center">Hey, I'm Bruno! 👋</h1>
+<h1 align="center">Olá, eu sou o Bruno! 👋</h1>
 
-<h3 align="center">Software Engineering Student | Backend & DevOps Enthusiast</h3>
+<h3 align="center">Estudante de Engenharia de Software | Desenvolvimento, Cloud e IA</h3>
 
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=brunow27&style=for-the-badge&color=0A66C2"
-    alt="Profile Views"
+    alt="Visualizações do perfil"
   />
 </p>
 
-## 🔗 Socials
+## 🔗 Redes e contato
+
 <p align="center">
   <a href="https://www.linkedin.com/in/bruno-rovani-marcelino">
     <img
@@ -17,9 +18,10 @@
       alt="LinkedIn"
     />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bruninho.marcelino2016%40gmail.com" title="Gmail">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bruninho.marcelino2016%40gmail.com" title="E-mail">
     <img
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
     />
   </a>
   <a href="https://www.instagram.com/brunorovanimarcelino/">
@@ -32,85 +34,92 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre mim
 
-I'm a Software Engineering student from Brazil 🇧🇷, currently pivoting my focus toward **Backend Architecture, Infrastructure, and DevOps Automation**. I enjoy building efficient workflows, managing environments, and ensuring software reliability.
+Sou estudante de **Engenharia de Software**, do Brasil 🇧🇷, e estou construindo minha trajetória em **desenvolvimento de software**, com interesse especial em backend, Cloud e Inteligência Artificial.
 
-- 🐍 **Backend & Scripting:** Developing solid logical foundations with Python and modern web frameworks.
-- 🐳 **Containers & Infrastructure:** Hands-on experience isolating and orchestration environments using Docker.
-- 🗄️ **Databases:** Designing relational database structures and optimized queries.
-- 🌐 **Web Fundamentals:** Solid understanding of frontend technologies (HTML/CSS/JS) applied to full-stack project context.
-- 🔧 **Workflow:** Proficient with Git workflows, semantic commits, and team collaboration.
+No momento, meu foco é fortalecer a base de programação e ganhar mais prática desenvolvendo aplicações por conta própria. Também estudo infraestrutura, automação e ferramentas que apoiam o desenvolvimento e a publicação de software.
 
----
-
-## 🛠️ Tech Stack
-
-### ⚙️ Programming & Back-end
-
-<p>
-   <img src="https://skillicons.dev/icons?i=python,flask,js">
-</p>
-
-### 🐳 DevOps & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux">
-</p>
-
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/>
-</p>
+- 💻 **Desenvolvimento:** reforçando lógica de programação e JavaScript, além de retomar a prática com Python.
+- 🧩 **Backend e bancos de dados:** já participei de projetos acadêmicos com Node.js, APIs REST, autenticação e MySQL.
+- 🐳 **Containers:** já utilizei Docker e Docker Compose em ambientes de projeto.
+- 🔀 **Git e colaboração:** familiaridade com branches, commits, pull requests e o padrão Conventional Commits (`feat`, `fix`, `docs`, `chore`, entre outros).
+- ☁️ **Infraestrutura e Cloud:** aprofundando conhecimentos em Linux, serviços de nuvem e automação.
+- 🤖 **Inteligência Artificial:** estudando LLMs, engenharia de prompts e agentes de IA.
+- 🎯 **Objetivo atual:** conquistar uma oportunidade de estágio em desenvolvimento de software e evoluir com experiência prática.
 
 ---
 
-## 📦 Featured Projects
+## 🧰 Tecnologias e conhecimentos
 
-| **Project** | **Description** | **Technologies** |
+As categorias abaixo indicam meu contato atual com cada tecnologia. **“Já desenvolvi/utilizei” não significa domínio avançado**: inclui experiências acadêmicas, projetos em equipe e estudos anteriores. Estou retomando e aprofundando vários desses conhecimentos.
+
+### ✅ Já desenvolvi ou utilizei em projetos e estudos
+
+**Linguagens e desenvolvimento**
+
+`JavaScript` · `Python` · `Java` · `HTML` · `CSS`
+
+**Backend e aplicações**
+
+`Node.js` · `Express` · `React` · `Flask` · `APIs REST` · `JWT`
+
+**Banco de dados**
+
+`MySQL` · `SQL`
+
+**Aplicações e infraestrutura**
+
+`Docker` · `Docker Compose` · `Flutter` · `Dart` · `Firebase`
+
+**Controle de versão e colaboração**
+
+`Git` · `GitHub` · `Branches` · `Pull Requests` · `Conventional Commits` (`feat`, `fix`, `docs`, `chore`)
+
+**Plataformas utilizadas em projetos**
+
+`Cloudflare Pages` · `Render` · `Aiven`
+
+### 📚 Em aprendizado e aprofundamento
+
+- **JavaScript:** lógica, fundamentos da linguagem, manipulação do DOM e desenvolvimento de aplicações.
+- **Python:** retomando os fundamentos e aprofundando a prática com scripts e backend.
+- **Linux:** terminal, sistema de arquivos, permissões, processos e comandos.
+- **Cloud e DevOps:** fundamentos de Cloud, containers, automação e CI/CD com GitHub Actions.
+- **Inteligência Artificial:** LLMs, engenharia de prompts, agentes, CrewAI e MCP.
+
+---
+
+## 📦 Projetos em destaque
+
+| **Projeto** | **Descrição** | **Tecnologias** |
 |---|---|---|
-| [🎮 **CodeQuest**](https://github.com/Catolica-Tech-Academy-Hub/codequest) | Academic team project: a gamified platform for learning programming, utilizing Docker containers for environmental consistency. | Flutter, Dart, Firebase, Riverpod, Docker |
-| [🏗️ **SGP — Exam Generation System**](https://github.com/Felipe-S-prog/Projeto-e-Arquitetura-5-fase) | Collaborative academic project for managing complex architectures, deployed with backend modules and Docker. | React, Node.js, Express, MySQL, Docker |
-| [🏥 **Projeto Clínica**](https://github.com/brunow27/projeto_clinica) | Academic extension project focusing on a practical architecture using Python, Flask, and relational storage. | HTML, CSS, JavaScript, Flask, MySQL |
+| [🎮 **CodeQuest**](https://github.com/Catolica-Tech-Academy-Hub/codequest) | Projeto acadêmico em equipe: plataforma gamificada para aprendizado de programação. O repositório inclui configurações de ambiente e execução de serviços com containers. | Flutter, Dart, Firebase, Riverpod, Docker, Docker Compose |
+| [🏗️ **SGP — Sistema de Geração de Provas**](https://github.com/Felipe-S-prog/Projeto-e-Arquitetura-5-fase) | Projeto acadêmico colaborativo para criação e gerenciamento de avaliações. Minha participação envolveu arquitetura e diagramas, organização técnica e desenvolvimento relacionado à autenticação e segurança. | JavaScript, React, Node.js, Express, MySQL, JWT |
+| [🏥 **Projeto Clínica**](https://github.com/brunow27/projeto_clinica) | Projeto acadêmico de extensão com protótipo de interface, documentação e modelagem de uma solução para uma clínica. A arquitetura documentada propõe backend com Flask e MySQL. | HTML, CSS, JavaScript; arquitetura proposta: Python, Flask e MySQL |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=brunow27&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=brunow27&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Most Used Languages"/>
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=brunow27&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Estatísticas do GitHub"/>
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=brunow27&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Linguagens mais utilizadas"/>
 </p>
 
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/brunow27/brunow27/output/activity-graph.svg"
-    alt="Bruno's GitHub Activity Graph"
+    alt="Gráfico de atividade do GitHub"
   />
 </p>
 
 ---
 
-## 🧠 Concepts & Skills
-
-`REST APIs` • `HTTP Methods` • `JSON` • `CRUD Operations` • `SQL` • `Relational Databases` • `Git Workflow` • `Branches & Pull Requests` • `Layered Architecture` • `JWT Authentication` • `Docker Compose` • `CI/CD Concepts` • `Linux Environments`
-
----
-
-## 🌱 Currently Learning & Exploring
-
-- **Advanced Python Logic:** Mastering scripting, algorithms, and automated tasks.
-- **Linux Core:** Deepening knowledge in terminal management and shell automation.
-- **CI/CD Pipelines:** Re-exploring GitHub Actions to automate testing and build steps.
-- **Cloud Infrastructure:** Getting started with foundational concepts of cloud computing (AWS).
-
----
-
 <p align="center">
-  <i>Automating the world, one container at a time. 🚀</i>
+  <i>Aprendendo, construindo e evoluindo um projeto de cada vez. 🚀</i>
 </p>
 
 <p align="center">
-  Thanks for visiting my profile!
+  Obrigado pela visita!
 </p>
