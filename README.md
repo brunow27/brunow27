@@ -1,34 +1,22 @@
 <h1 align="center">Olá, eu sou o Bruno! 👋</h1>
 
-<h3 align="center">Estudante de Engenharia de Software | Desenvolvimento, Cloud e IA</h3>
+<h3 align="center">Estudante de Engenharia de Software | Desenvolvimento de Software</h3>
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=brunow27&style=for-the-badge&color=0A66C2"
-    alt="Visualizações do perfil"
-  />
+  <img src="https://komarev.com/ghpvc/?username=brunow27&style=for-the-badge&color=0A66C2" alt="Visualizações do perfil"/>
 </p>
 
-## 🔗 Redes e contato
+## 🔗 Redes sociais
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bruno-rovani-marcelino">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bruninho.marcelino2016%40gmail.com" title="E-mail">
-    <img
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail"
-    />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/brunorovanimarcelino/">
-    <img
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-    />
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram"/>
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bruninho.marcelino2016%40gmail.com" title="E-mail">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Gmail"/>
   </a>
 </p>
 
@@ -36,67 +24,126 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de **Engenharia de Software**, do Brasil 🇧🇷, e estou construindo minha trajetória em **desenvolvimento de software**, com interesse especial em backend, Cloud e Inteligência Artificial.
+Sou estudante de **Engenharia de Software**, do Brasil 🇧🇷, interessado em desenvolvimento de software, backend, Cloud e Inteligência Artificial.
 
-No momento, meu foco é fortalecer a base de programação e ganhar mais prática desenvolvendo aplicações por conta própria. Também estudo infraestrutura, automação e ferramentas que apoiam o desenvolvimento e a publicação de software.
+Atualmente, estou focado em fortalecer meus fundamentos de programação e desenvolver projetos próprios, buscando transformar conhecimentos teóricos em experiência prática.
 
-- 💻 **Desenvolvimento:** reforçando lógica de programação e JavaScript, além de retomar a prática com Python.
-- 🧩 **Backend e bancos de dados:** já participei de projetos acadêmicos com Node.js, APIs REST, autenticação e MySQL.
-- 🐳 **Containers:** já utilizei Docker e Docker Compose em ambientes de projeto.
-- 🔀 **Git e colaboração:** familiaridade com branches, commits, pull requests e o padrão Conventional Commits (`feat`, `fix`, `docs`, `chore`, entre outros).
-- ☁️ **Infraestrutura e Cloud:** aprofundando conhecimentos em Linux, serviços de nuvem e automação.
-- 🤖 **Inteligência Artificial:** estudando LLMs, engenharia de prompts e agentes de IA.
-- 🎯 **Objetivo atual:** conquistar uma oportunidade de estágio em desenvolvimento de software e evoluir com experiência prática.
+- 💻 Estudando desenvolvimento backend e fundamentos de programação.
+- 🗄️ Experiência com bancos de dados relacionais e desenvolvimento de APIs.
+- 🐳 Já utilizei Docker e Docker Compose em projetos acadêmicos.
+- 🔀 Boa familiaridade com Git, GitHub e práticas de colaboração.
+- ☁️ Aprofundando conhecimentos em Linux, Cloud e DevOps.
+- 🤖 Explorando LLMs, agentes de IA e automação.
+- 🎯 Buscando uma oportunidade de estágio em desenvolvimento de software.
 
 ---
 
-## 🧰 Tecnologias e conhecimentos
+## 🧰 Tecnologias e ferramentas
 
-As categorias abaixo indicam meu contato atual com cada tecnologia. **“Já desenvolvi/utilizei” não significa domínio avançado**: inclui experiências acadêmicas, projetos em equipe e estudos anteriores. Estou retomando e aprofundando vários desses conhecimentos.
+### ⭐ Mais familiaridade
 
-### ✅ Já desenvolvi ou utilizei em projetos e estudos
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,mysql,html,css,js,vscode,linux" alt="Tecnologias e ferramentas"/>
+</p>
 
-**Linguagens e desenvolvimento**
+`Git` · `GitHub` · `Branches` · `Pull Requests` · `Merge`
 
-`JavaScript` · `Python` · `Java` · `HTML` · `CSS`
+`Conventional Commits` · `feat` · `fix` · `docs` · `chore` · `refactor` · `test`
 
-**Backend e aplicações**
+`MySQL` · `SQL` · `HTML5` · `CSS3` · `JavaScript (JS)`
 
-`Node.js` · `Express` · `React` · `Flask` · `APIs REST` · `JWT`
+`Visual Studio Code (VS Code)` · `Linux`
 
-**Banco de dados**
+**Inteligência Artificial e agentes:**
 
-`MySQL` · `SQL`
+`CrewAI` · `MCP (Model Context Protocol)` · `Claude` · `ChatGPT` · `Gemini` · `LLMs`
 
-**Aplicações e infraestrutura**
+Tenho maior segurança de uso com Git, GitHub e MySQL. Também tenho familiaridade com HTML, CSS, JavaScript, VS Code e Linux. Em IA, estou tendo contato prático com agentes, LLMs e MCP por meio dos estudos e do bootcamp Bradesco.
 
-`Docker` · `Docker Compose` · `Flutter` · `Dart` · `Firebase`
+### 🛠️ Já desenvolvi ou utilizei em projetos
 
-**Controle de versão e colaboração**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,java,maven,docker,cloudflare" alt="Tecnologias utilizadas em projetos"/>
+</p>
 
-`Git` · `GitHub` · `Branches` · `Pull Requests` · `Conventional Commits` (`feat`, `fix`, `docs`, `chore`)
+`JavaScript` · `Node.js` · `Express` · `React`
 
-**Plataformas utilizadas em projetos**
+`Java` · `Maven` · `APIs REST` · `JWT`
+
+`Docker` · `Docker Compose`
 
 `Cloudflare Pages` · `Render` · `Aiven`
 
 ### 📚 Em aprendizado e aprofundamento
 
-- **JavaScript:** lógica, fundamentos da linguagem, manipulação do DOM e desenvolvimento de aplicações.
-- **Python:** retomando os fundamentos e aprofundando a prática com scripts e backend.
-- **Linux:** terminal, sistema de arquivos, permissões, processos e comandos.
-- **Cloud e DevOps:** fundamentos de Cloud, containers, automação e CI/CD com GitHub Actions.
-- **Inteligência Artificial:** LLMs, engenharia de prompts, agentes, CrewAI e MCP.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,linux,docker,aws,githubactions" alt="Tecnologias em aprendizado"/>
+</p>
 
+`Python` · `Linux` · `Docker` · `AWS` · `GitHub Actions`
+
+`Cloud Computing` · `CI/CD` · `Automação de infraestrutura`
+
+`Engenharia de Prompts` · `CrewAI` · `MCP` · `Agentes de IA`
+
+**Inteligência Artificial:** LLMs, Engenharia de Prompts, CrewAI e MCP.
+
+# Cursos/Bootcamps atuais
+
+<br>
+
+<img width="120" height="120" alt="bootcampIA" src="https://github.com/user-attachments/assets/6b4f2c52-9dfa-42c1-99bf-be8a920ce8d9" />
+<br> <strong>11% completo</strong>
+
+### [🔗Bootcamp Bradesco - Agentes de IA do Zero a Prática](https://web.dio.me/track/bradesco-agentes-de-ia-do-zero-a-pratica)
+
+<br>
+
+<img width="120" height="120" alt="cursoFront" src="https://github.com/user-attachments/assets/883257fc-1041-420b-870b-098520916d72" />
+<br> <strong>40% completo</strong>
+
+### [🔗Curso HTML5 e CSS3: módulo 2 de 5 40 HORAS](https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-2-de-5-40-horas)
 ---
 
 ## 📦 Projetos em destaque
 
-| **Projeto** | **Descrição** | **Tecnologias** |
-|---|---|---|
-| [🎮 **CodeQuest**](https://github.com/Catolica-Tech-Academy-Hub/codequest) | Projeto acadêmico em equipe: plataforma gamificada para aprendizado de programação. O repositório inclui configurações de ambiente e execução de serviços com containers. | Flutter, Dart, Firebase, Riverpod, Docker, Docker Compose |
-| [🏗️ **SGP — Sistema de Geração de Provas**](https://github.com/Felipe-S-prog/Projeto-e-Arquitetura-5-fase) | Projeto acadêmico colaborativo para criação e gerenciamento de avaliações. Minha participação envolveu arquitetura e diagramas, organização técnica e desenvolvimento relacionado à autenticação e segurança. | JavaScript, React, Node.js, Express, MySQL, JWT |
-| [🏥 **Projeto Clínica**](https://github.com/brunow27/projeto_clinica) | Projeto acadêmico de extensão com protótipo de interface, documentação e modelagem de uma solução para uma clínica. A arquitetura documentada propõe backend com Flask e MySQL. | HTML, CSS, JavaScript; arquitetura proposta: Python, Flask e MySQL |
+### 🏗️ SGP — Sistema de Geração de Provas
+
+Projeto acadêmico colaborativo para criação e gerenciamento de avaliações, com funcionalidades de autenticação, provas, turmas e gerenciamento de usuários.
+
+Minha participação envolveu a organização técnica, decisões de arquitetura e diagramas, além de atividades relacionadas à autenticação e segurança do sistema.
+
+Também participei da configuração e publicação da aplicação, utilizando Cloudflare Pages para o frontend, Render para a API e Aiven para o banco de dados MySQL.
+
+**Tecnologias:** JavaScript, React, Node.js, Express, MySQL, JWT, Cloudflare Pages, Render e Aiven.
+
+[🔗 Repositório da equipe](https://github.com/Felipe-S-prog/Projeto-e-Arquitetura-5-fase)
+
+---
+
+### 🧪 Testes de Software e CI/CD
+
+Repositório de estudos e experimentações práticas com testes de software e automação de processos utilizando GitHub Actions.
+
+Durante os exercícios, tive contato com pipelines de CI, execução automatizada de testes com Maven, relatórios de cobertura com JaCoCo, matrizes de execução em diferentes sistemas operacionais e processos de CD para publicação de releases.
+
+**Tecnologias:** Java, Maven, GitHub Actions, CI/CD e JaCoCo.
+
+[🔗 Repositório](https://github.com/brunow27/ci-teste-software)
+
+---
+
+### 🏥 Projeto Clínica
+
+Projeto acadêmico de extensão com protótipo de interface, documentação, levantamento de requisitos e modelagem de uma solução web para uma clínica de estética.
+
+O projeto também apresenta uma proposta de arquitetura para backend e banco de dados, ainda não implementada no protótipo.
+
+**Tecnologias utilizadas:** HTML5, CSS3 e JavaScript. 
+
+**Arquitetura proposta:** Python, Flask e MySQL.
+
+[🔗 Repositório](https://github.com/brunow27/projeto_clinica)
 
 ---
 
