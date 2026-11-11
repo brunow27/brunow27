@@ -8,15 +8,15 @@
 
 ## 🔗 Redes sociais
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/bruno-rovani-marcelino">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="80" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/brunorovanimarcelino/">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram" width="80" alt="Instagram"/>
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bruninho.marcelino2016%40gmail.com" title="E-mail">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="80" alt="Gmail"/>
   </a>
 </p>
 
