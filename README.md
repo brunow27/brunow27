@@ -95,27 +95,21 @@ Tenho maior segurança de uso com Git, GitHub e MySQL. Também tenho familiarida
 <img width="120" height="120" alt="bootcampIA" src="https://github.com/user-attachments/assets/6b4f2c52-9dfa-42c1-99bf-be8a920ce8d9" />
 <br> <strong>27% completo</strong>
 
-## [Repositório](https://github.com/brunow27/desafios-dio-agentes-ia)
-
-### [🔗Bootcamp Bradesco - Agentes de IA do Zero a Prática](https://web.dio.me/track/bradesco-agentes-de-ia-do-zero-a-pratica)
+## [📔Repositório](https://github.com/brunow27/desafios-dio-agentes-ia) / [🔗Bootcamp: Bradesco - Agentes de IA do Zero a Prática](https://web.dio.me/track/bradesco-agentes-de-ia-do-zero-a-pratica)
 
 <br>
 
 <img width="120" height="120" alt="cursoFront" src="https://github.com/user-attachments/assets/883257fc-1041-420b-870b-098520916d72" />
 <br> <strong>40% completo</strong>
 
-## [Repositório](https://github.com/brunow27/html-css)
-
-### [🔗Curso HTML5 e CSS3: módulo 2 de 5 40 HORAS](https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-2-de-5-40-horas)
+## [📔Repositório](https://github.com/brunow27/html-css) / [🔗Curso: HTML5 e CSS3: módulo 2 de 5 40 HORAS](https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-2-de-5-40-horas)
 
 <br>
 
 <img width="120" height="75" alt="cursoPython3" src="https://github.com/user-attachments/assets/ba248b65-eced-4d3e-a0e3-53b8ac51a564" />
 <br> <strong>10% completo</strong>
 
-## [Repositório](https://github.com/brunow27/curso_python)
-
-### [Curso de Python 3 do básico ao avançado - com projetos reais](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
+## [📔Repositório](https://github.com/brunow27/curso_python) / [🔗Curso: de Python 3 do básico ao avançado - com projetos reais](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
 ---
 
 ## 📦 Projetos em destaque
