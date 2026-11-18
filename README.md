@@ -103,6 +103,13 @@ Tenho maior segurança de uso com Git, GitHub e MySQL. Também tenho familiarida
 <br> <strong>40% completo</strong>
 
 ### [🔗Curso HTML5 e CSS3: módulo 2 de 5 40 HORAS](https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-2-de-5-40-horas)
+
+<br>
+
+<img width="120" height="75" alt="cursoPython3" src="https://github.com/user-attachments/assets/ba248b65-eced-4d3e-a0e3-53b8ac51a564" />
+<br> <strong>7% completo</strong>
+
+### [Curso de Python 3 do básico ao avançado - com projetos reais](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
 ---
 
 ## 📦 Projetos em destaque
